@@ -42,7 +42,7 @@ This project is a PySpark-based data pipeline designed to process large datasets
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/ameyss97/CarCrash_CaseStudy_Analytics.git
+    git clone https://github.com/ameyss97/bcg_carCrash_caseStudy
     cd carCrash
     ```
 2. **Install dependencies** : Ensure you have Python installed and install the required packages using pip:
